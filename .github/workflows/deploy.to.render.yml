@@ -37,3 +37,5 @@ jobs:
         # Run the deployment command
         run: |
           curl "$DEPLOY_URL"
+
+## Testing actions
