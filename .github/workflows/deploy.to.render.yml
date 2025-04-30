@@ -38,4 +38,3 @@ jobs:
         run: |
           curl "$DEPLOY_URL"
 
-## Testing actions
